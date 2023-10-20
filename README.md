@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulJha93
 - 👀 I’m interested in Andriod Development,Web Development.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development ...
 - 💻 C,C++,JAVA,PYTHON.
 - 📫 How to reach me: rahul.sahyogcollege@gmail.com 
 <!---
